@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "David / Personal Page"
+title                    : "Wang / Personal Page"
 title_separator          : "-"
 name                     : &name "Hong-Yi Wang"
 description              : &description "personal description"
