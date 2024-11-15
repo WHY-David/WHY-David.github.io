@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+This webpage is unfinished. See PDF. 
+
 ## Education
 ======
 * Ph.D. in Quantum Science and Engineering, Princeton University, 2024-2028 (expected)
@@ -53,4 +55,4 @@ redirect_from:
   * Duties included: Tagging issues
   * Supervisor: Professor Git -->
   
-[View PDF](https://academicpages.github.io/files/CV.pdf)
+[View PDF](https://why-david.github.io/files/CV.pdf)
