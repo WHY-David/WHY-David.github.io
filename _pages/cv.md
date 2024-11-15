@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
 * Ph.D. in Quantum Science and Engineering, Princeton University, 2024-2028 (expected)
   * Thesis advisor: 
@@ -22,7 +22,7 @@ Education
   * **Award:** Gold Medal in the Asian Physics Olympiad 2017
 
 
-Publication list
+## Publication list
 * **H.-Y. Wang**, F. Song and Z. Wang. *Phys. Rev. X 14, 021011 (2024)*
 "Amoeba Formulation of Non-Bloch Band Theory in Arbitrary Dimensions"
 * Y.-M. Hu, **H.-Y. Wang**, Z. Wang and F. Song. *Phys. Rev. Lett. 132, 050402 (2024)*
@@ -31,10 +31,10 @@ Publication list
 "Non-Bloch PT Symmetry Breaking: Universal Threshold and Dimensional Surprise"
 
 
-Preprints
+## Preprints
 * F. Song, **H.-Y. Wang** and Z. Wang. *arXiv:2410.23175*
   "Fragile Non-Bloch Spectrum and Unconventional Green's function"
-  
+
 
 <!-- Work experience
 ======
@@ -53,4 +53,4 @@ Preprints
   * Duties included: Tagging issues
   * Supervisor: Professor Git -->
   
-(Link) view online
+[View PDF](https://academicpages.github.io/files/CV.pdf)
