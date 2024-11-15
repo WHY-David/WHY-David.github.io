@@ -18,6 +18,23 @@ Education
 * Withdrawn Ph.D. program in Physics, Tsinghua University, 2021-2024
   * Advised by Zhong Wang, Ph.D., Professor of Physics
 * B.Sc. in Physics, Peking University, 2017-2021
+* The high school affiliated to Renmin University of China
+  * **Award:** Gold Medal in the Asian Physics Olympiad 2017
+
+
+Publication list
+* **H.-Y. Wang**, F. Song and Z. Wang. *Phys. Rev. X 14, 021011 (2024)*
+"Amoeba Formulation of Non-Bloch Band Theory in Arbitrary Dimensions"
+* Y.-M. Hu, **H.-Y. Wang**, Z. Wang and F. Song. *Phys. Rev. Lett. 132, 050402 (2024)*
+"Geometric Origin of Non-Bloch PT Symmetry Breaking"
+* F. Song, **H.-Y. Wang** and Z. Wang. *A Festschrift in Honor of the C N Yang Centenary, pp. 299-311 (2022)*
+"Non-Bloch PT Symmetry Breaking: Universal Threshold and Dimensional Surprise"
+
+
+Preprints
+* F. Song, **H.-Y. Wang** and Z. Wang. *arXiv:2410.23175*
+  "Fragile Non-Bloch Spectrum and Unconventional Green's function"
+  
 
 <!-- Work experience
 ======
