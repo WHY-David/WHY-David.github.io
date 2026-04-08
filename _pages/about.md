@@ -15,7 +15,7 @@ I work on problems at the interface of quantum information, condensed matter the
 
 My recent research experience includes non-Hermitian quantum systems and topology, especially the skin effect in two and higher dimensions, the interplay between parity-time symmetry and exceptional points, and related experimental collaborations. I have also worked on many-body dynamics and entanglement phenomena, including randomized quantum evolution, operator growth, and quantum-information perspectives on quantum gravity.
 
-## Publications
+<!-- ## Publications
 
 <div class="home-section-list">
 {% assign publications = site.publications | sort: "date" | reverse %}
@@ -31,13 +31,18 @@ My recent research experience includes non-Hermitian quantum systems and topolog
 {% for post in talks %}
   {% include archive-single-talk.html %}
 {% endfor %}
-</div>
+</div> -->
 
-## Background
+## Experience
 
-- Princeton University, Ph.D. in Quantum Science and Engineering, 2024-present.
-- Stanford University, Visiting Student Researcher, 2023-2024, working with Prof. Xiao-Liang Qi at the Stanford Institute for Theoretical Physics.
-- Tsinghua University, Ph.D. program in Physics, 2021-2024, advised by Prof. Zhong Wang at the Institute for Advanced Study.
+- NTT Research—PHI Lab, Intern researcher, 2025. Worked on machine learning theory.
+
+## Education
+
+- Princeton University, Ph.D. in Quantum Science and Engineering, 2024-present. Thesis advisor is Prof. Sarang Gopalakrishnan.
+- MIT, Visiting Student Researcher, 2025, working with Prof. Isaac L. Chuang in the Physics Department.
+- Stanford University, Visiting Student Researcher, 2023-2024, working with Prof. Xiao-Liang Qi at the Leinweber Institute for Theoretical Physics.
+- Tsinghua University, withdrawn Ph.D. program in Physics, 2021-2024, advised by Prof. Zhong Wang at the Institute for Advanced Study.
 - Peking University, B.Sc. in Physics, 2017-2021.
 - The High School Affiliated to Renmin University of China, Asian Physics Olympiad Gold Medalist in 2017.
 
