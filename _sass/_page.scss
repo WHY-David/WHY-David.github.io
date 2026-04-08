@@ -118,21 +118,32 @@
 }
 
 .photography-gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 1rem;
+  display: block;
   margin: 0;
 }
 
-.photography-gallery img {
-  display: block;
-  width: 100%;
-  height: 260px;
-  object-fit: cover;
+.photography-gallery__row {
+  display: flex;
+  gap: 2px;
+  margin-bottom: 2px;
 }
 
-.photography-gallery a {
+.photography-gallery__row:last-of-type {
+  margin-bottom: 0;
+}
+
+.photography-gallery .gallery__item {
   display: block;
+  flex: 0 0 auto;
+  margin: 0;
+  overflow: hidden;
+}
+
+.photography-gallery .gallery__image {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
 }
 
 .page__hero {
