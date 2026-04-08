@@ -15,6 +15,10 @@ I work on problems at the interface of quantum information, condensed matter the
 
 My recent research experience includes non-Hermitian quantum systems and topology, especially the skin effect in two and higher dimensions, the interplay between parity-time symmetry and exceptional points, and related experimental collaborations. I have also worked on many-body dynamics and entanglement phenomena, including randomized quantum evolution, operator growth, and quantum-information perspectives on quantum gravity.
 
+## Spare time
+
+I enjoy photography, calligraphy, Japanese rock music, and various sports. 
+
 <!-- ## Publications
 
 <div class="home-section-list">
