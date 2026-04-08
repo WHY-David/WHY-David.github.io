@@ -107,6 +107,34 @@
   }
 }
 
+.home-section-list {
+  .archive__item {
+    margin-bottom: 1.5rem;
+  }
+
+  .archive__item-title {
+    margin-top: 0;
+  }
+}
+
+.photography-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 0;
+}
+
+.photography-gallery img {
+  display: block;
+  width: 100%;
+  height: 260px;
+  object-fit: cover;
+}
+
+.photography-gallery a {
+  display: block;
+}
+
 .page__hero {
   position: relative;
   margin-bottom: 2em;

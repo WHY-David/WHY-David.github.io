@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Wang / Personal Page"
+title                    : "Hong-Yi Wang"
 title_separator          : "-"
 name                     : &name "Hong-Yi Wang"
-description              : &description "personal description"
+description              : &description "Ph.D. student in Quantum Science and Engineering at Princeton University"
 url                      : https://why-david.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "WHY-David/WHY-David.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpeg"
   name             : "Hong-Yi (David) Wang"
   pronouns         : "he/him"  
-  bio              : "Ph.D. student in Quantum Science and Engineering"
+  bio              : "Ph.D. student in Quantum Science and Engineering at Princeton University, working on quantum information theory, quantum many-body dynamics, quantum algorithms, open quantum systems, and physics-inspired machine learning theory."
   location         : "Princeton, NJ"
   employer         : "Princeton University"
   uri              : "https://why-david.github.io"
@@ -281,7 +281,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
