@@ -7,5 +7,3 @@ venue: "Princeton Physics Department"
 display_date: "2023"
 order: 2
 ---
-
-Listed in my CV under Talks and Presentations.

@@ -156,19 +156,25 @@ exclude:
   - .sass-cache
   - CHANGELOG
   - Capfile
+  - CONTRIBUTING.md
   - Gemfile
   - Gruntfile.js
   - LICENSE
   - README
+  - README.md
   - Rakefile
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
   - config
+  - files/CV.pdf
   - gulpfile.js
   - log
+  - markdown_generator
   - node_modules
   - package.json
+  - talkmap.ipynb
+  - talkmap.py
   - tmp
   - vendor
 keep_files:

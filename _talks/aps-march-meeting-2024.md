@@ -7,5 +7,3 @@ venue: "APS March Meeting 2024"
 display_date: "APS March Meeting 2024"
 order: 1
 ---
-
-Listed in my CV under Talks and Presentations.
