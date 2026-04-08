@@ -17,29 +17,42 @@
 <figure class="{{ gallery_layout }} {{ include.class }}">
   {% for img in gallery %}
     {% if img.url %}
+      {% assign url_first_char = img.url | slice: 0, 1 %}
       <a class="image-popup" href=
         {% if img.url contains "://" %}
           "{{ img.url }}"
+        {% elsif url_first_char == "/" %}
+          "{{ img.url | relative_url }}"
         {% else %}
           "{{ img.url | prepend: "/images/" | prepend: base_path }}"
         {% endif %}
         {% if img.title %}title="{{ img.title }}"{% endif %}
       >
+        {% assign image_first_char = img.image_path | slice: 0, 1 %}
         <img src=
           {% if img.image_path contains "://" %}
             "{{ img.image_path }}"
+          {% elsif image_first_char == "/" %}
+            "{{ img.image_path | relative_url }}"
           {% else %}
             "{{ img.image_path | prepend: "/images/" | prepend: base_path }}"
           {% endif %}
+          loading="lazy"
+          decoding="async"
           alt="{% if img.alt %}{{ img.alt }}{% endif %}">
       </a>
     {% else %}
+      {% assign image_first_char = img.image_path | slice: 0, 1 %}
       <img src=
         {% if img.image_path contains "://" %}
           "{{ img.image_path }}"
+        {% elsif image_first_char == "/" %}
+          "{{ img.image_path | relative_url }}"
         {% else %}
           "{{ img.image_path | prepend: "/images/" | prepend: base_path }}"
         {% endif %}
+        loading="lazy"
+        decoding="async"
         alt="{% if img.alt %}{{ img.alt }}{% endif %}">
     {% endif %}
   {% endfor %}
