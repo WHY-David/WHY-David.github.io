@@ -1,9 +1,8 @@
 ---
-title: "Non-Bloch Band Theory in Arbitrary Dimensions: The Stable and the Fragile"
+title: "Non-Bloch band theory in arbitrary dimensions: the stable and the fragile"
 collection: talks
-type: "Invited special seminar"
 permalink: /talks/princeton-special-seminar-2023
-venue: "Princeton Physics Department"
+venue: "Special seminar at Princeton Physics Department"
 display_date: "2023"
-order: 2
+order: 6
 ---

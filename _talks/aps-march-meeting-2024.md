@@ -1,9 +1,8 @@
 ---
-title: "Witness of Non-Hermitian Skin Effect in Arbitrary Dimensions"
+title: "Witness of non-Hermitian skin effect in arbitrary dimensions"
 collection: talks
-type: "In-person oral presentation"
 permalink: /talks/aps-march-meeting-2024
-venue: "APS March Meeting 2024"
-display_date: "APS March Meeting 2024"
-order: 1
+venue: "APS March Meeting"
+display_date: "2024"
+order: 5
 ---

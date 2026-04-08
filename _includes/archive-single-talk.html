@@ -11,6 +11,7 @@
 {% else %}
   {% assign title = post.title %}
 {% endif %}
+{% assign talk_excerpt = post.excerpt | markdownify | strip_html | strip_newlines | strip %}
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
@@ -47,6 +48,6 @@
         {% if post.location %}, {{ post.location }}{% endif %}
       </p>
     {% endif %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
+    {% if talk_excerpt != "" %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
   </article>
 </div>

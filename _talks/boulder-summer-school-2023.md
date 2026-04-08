@@ -1,9 +1,9 @@
 ---
-title: "The Amoeba Formulation"
+title: "Amoeba formulation of non-Bloch band theory"
 collection: talks
-type: "Poster presentation"
+type: "Poster"
 permalink: /talks/boulder-summer-school-2023
-venue: "Boulder Summer School 2023: Non-Equilibrium Quantum Dynamics"
+venue: "Boulder Summer School on Non-Equilibrium Quantum Dynamics"
 display_date: "2023"
-order: 3
+order: 7
 ---

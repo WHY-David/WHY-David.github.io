@@ -1,9 +1,9 @@
 ---
-title: "The Amoeba Formulation"
+title: "Amoeba formulation of non-Bloch band theory"
 collection: talks
-type: "Poster presentation"
+type: "Poster"
 permalink: /talks/gordon-research-conference-2023
 venue: "Gordon Research Conference 2023: Topological and Correlated Matter"
 display_date: "2023"
-order: 4
+order: 8
 ---
