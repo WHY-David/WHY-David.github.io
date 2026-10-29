@@ -1,6 +1,7 @@
 ---
 title: "Relieving the post-selection problem by quantum singular value transformation"
 collection: publications
+order: 5
 permalink: /publication/relieving-the-post-selection-problem-by-quantum-singular-value-transformation
 excerpt: "Introduces a post-selection-free strategy based on quantum singular value transformation to deterministically simulate post-selected states and measure nonlinear quantum observables more efficiently."
 date: 2025-03-31

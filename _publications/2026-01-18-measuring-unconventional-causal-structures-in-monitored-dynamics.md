@@ -1,6 +1,7 @@
 ---
 title: "Measuring unconventional causal structures in monitored dynamics"
 collection: publications
+order: 4
 permalink: /publication/measuring-unconventional-causal-structures-in-monitored-dynamics
 excerpt: "Introduces cross-entropy quantum causal influence to quantify exotic causal structures in monitored dynamics, including inverted light cones and state-dependent arrows of time."
 date: 2026-01-18

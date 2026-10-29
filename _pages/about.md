@@ -9,6 +9,8 @@ redirect_from:
 
 I am a Ph.D. student in Quantum Science and Engineering at Princeton University. My research is centered on quantum information theory and quantum many-body dynamics, with additional interests in quantum algorithms, open quantum systems, and physics-inspired machine learning theory.
 
+[Curriculum vitae (PDF)]({{ '/CV%20Wang.pdf' | relative_url }})
+
 ## Research
 
 I work on problems at the interface of quantum information, condensed matter theory, and nonequilibrium many-body physics. Recent projects have focused on non-Hermitian quantum systems, non-Bloch band theory, parity-time symmetry breaking, and the role of geometry in open-system dynamics. More broadly, I am interested in entanglement and complexity in many-body systems, randomized quantum evolution, and theoretical questions that connect quantum science to modern machine learning.

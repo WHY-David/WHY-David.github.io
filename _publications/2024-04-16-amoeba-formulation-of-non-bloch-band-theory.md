@@ -1,6 +1,7 @@
 ---
 title: "Amoeba Formulation of Non-Bloch Band Theory in Arbitrary Dimensions"
 collection: publications
+order: 7
 permalink: /publication/amoeba-formulation-of-non-bloch-band-theory-in-arbitrary-dimensions
 excerpt: "Develops an amoeba-based formulation of non-Bloch band theory in arbitrary spatial dimensions, providing a practical framework for spectra, eigenstate profiles, and generalized Brillouin zones beyond one dimension."
 date: 2024-04-16

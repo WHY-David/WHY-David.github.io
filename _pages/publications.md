@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign publications = site.publications | sort: "date" | reverse %}
+{% assign publications = site.publications | sort: "order" %}
 {% for post in publications %}
   {% include archive-single.html %}
 {% endfor %}

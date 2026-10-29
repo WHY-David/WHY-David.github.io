@@ -1,6 +1,7 @@
 ---
 title: "Fragile non-Bloch spectrum and unconventional Green's function"
 collection: publications
+order: 6
 permalink: /publication/fragile-non-bloch-spectrum-and-unconventional-greens-function
 excerpt: "Shows that a broad class of non-Hermitian models have spectra that are exponentially sensitive even to local boundary perturbations, and relates this fragility to unconventional V-shaped Green's functions."
 date: 2024-10-30

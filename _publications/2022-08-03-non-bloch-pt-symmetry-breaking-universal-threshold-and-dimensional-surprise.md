@@ -1,6 +1,7 @@
 ---
 title: "Non-Bloch PT Symmetry Breaking: Universal Threshold and Dimensional Surprise"
 collection: publications
+order: 9
 permalink: /publication/non-bloch-pt-symmetry-breaking-universal-threshold-and-dimensional-surprise
 excerpt: "Shows that in two and higher dimensions the non-Bloch PT-breaking threshold universally approaches zero with system size, revealing an unexpected dimensional effect in non-Hermitian systems."
 date: 2022-08-03

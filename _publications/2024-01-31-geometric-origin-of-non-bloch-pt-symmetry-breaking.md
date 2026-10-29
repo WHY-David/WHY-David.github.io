@@ -1,6 +1,7 @@
 ---
 title: "Geometric Origin of Non-Bloch PT Symmetry Breaking"
 collection: publications
+order: 8
 permalink: /publication/geometric-origin-of-non-bloch-pt-symmetry-breaking
 excerpt: "Identifies cusp formation in the generalized Brillouin zone as the mechanism behind non-Bloch PT symmetry breaking and derives an exact formula for the breaking threshold."
 date: 2024-01-31
