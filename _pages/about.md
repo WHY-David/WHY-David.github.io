@@ -14,7 +14,7 @@ redirect_from:
 I use theoretical physics approaches to tackle two fields I am interested in: quantum dynamics and deep learning theory. I ask, and answer questions like:
 
 - How do quantum information and complexity evolve in many-body systems, from models accessible to today's quantum simulation experiments to models of quantum gravity?
-- How do open and closed quantum systems evolve, equilibrate, and thermalize?
+- How do open quantum systems evolve, equilibrate, and thermalize?
 - What new quantum algorithms can facilitate quantum simulation?
 - Can a physics-inspired theory explain deep learning, treating its behavior at large scales as emergent phenomena, a central theme in physics?
 
