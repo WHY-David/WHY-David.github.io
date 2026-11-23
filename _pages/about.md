@@ -42,7 +42,7 @@ I enjoy photography, calligraphy, Japanese rock music, and various sports.
 
 ## Experience
 
-- NTT Research—PHI Lab, Intern researcher, 2025. Worked on deep learning theory and physical neural networks.
+- NTT Research—PHI Lab, Intern researcher, 2025. Worked on deep learning theory and physical neural networks. Mentored by Liu Ziyin.
 
 ## Education
 
