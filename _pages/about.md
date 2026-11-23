@@ -7,15 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Quantum Science and Engineering at Princeton University. My research is centered on quantum information theory and quantum many-body dynamics, with additional interests in quantum algorithms, open quantum systems, and physics-inspired machine learning theory.
-
 [Curriculum vitae (PDF)]({{ '/CV%20Wang.pdf' | relative_url }})
 
 ## Research
 
-I work on problems at the interface of quantum information, condensed matter theory, and nonequilibrium many-body physics. Recent projects have focused on non-Hermitian quantum systems, non-Bloch band theory, parity-time symmetry breaking, and the role of geometry in open-system dynamics. More broadly, I am interested in entanglement and complexity in many-body systems, randomized quantum evolution, and theoretical questions that connect quantum science to modern machine learning.
+I use theoretical physics approaches to tackle two fields I am interested in: quantum dynamics and deep learning theory. I ask, and answer questions like:
 
-My recent research experience includes non-Hermitian quantum systems and topology, especially the skin effect in two and higher dimensions, the interplay between parity-time symmetry and exceptional points, and related experimental collaborations. I have also worked on many-body dynamics and entanglement phenomena, including randomized quantum evolution, operator growth, and quantum-information perspectives on quantum gravity.
+- How do quantum information and complexity evolve in many-body systems, from models accessible to today's quantum simulation experiments to models of quantum gravity?
+- How do open and closed quantum systems evolve, equilibrate, and thermalize?
+- What new quantum algorithms can facilitate quantum simulation?
+- Can a physics-inspired theory explain deep learning, treating its behavior at large scales as emergent phenomena, a central theme in physics?
 
 ## Spare time
 
@@ -41,7 +42,7 @@ I enjoy photography, calligraphy, Japanese rock music, and various sports.
 
 ## Experience
 
-- NTT Research—PHI Lab, Intern researcher, 2025. Worked on machine learning theory.
+- NTT Research—PHI Lab, Intern researcher, 2025. Worked on deep learning theory and physical neural networks.
 
 ## Education
 
